@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3549b0b-61a2-47fb-b9a9-74c5985ae2ab" name="Default" comment="Testing">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSE.jar" afterPath="$PROJECT_DIR$/JavaSE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/Main.jar" afterPath="$PROJECT_DIR$/dist/Main.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/CodenameOne.jar" afterPath="$PROJECT_DIR$/lib/CodenameOne.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/CodenameOne_SRC.zip" afterPath="$PROJECT_DIR$/lib/CodenameOne_SRC.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StudentPortal/com/StudentPortal/StudentPortal/Marks$1.class" afterPath="$PROJECT_DIR$/out/production/StudentPortal/com/StudentPortal/StudentPortal/Marks$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/StudentPortal/com/StudentPortal/StudentPortal/Marks.class" afterPath="$PROJECT_DIR$/out/production/StudentPortal/com/StudentPortal/StudentPortal/Marks.class" />
+    <list default="true" id="a3549b0b-61a2-47fb-b9a9-74c5985ae2ab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Versions.properties" afterPath="$PROJECT_DIR$/Versions.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/built-jar.properties" afterPath="$PROJECT_DIR$/build/built-jar.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/StudentPortal/StudentPortal/LunchMenu.java" afterPath="$PROJECT_DIR$/src/com/StudentPortal/StudentPortal/LunchMenu.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,8 +77,8 @@
       <file leaf-file-name="Info.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/StudentPortal/StudentPortal/Info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="166">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -325,6 +315,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554600265781</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1558044138982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558044138982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -974,8 +972,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/StudentPortal/StudentPortal/Info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="166">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
