@@ -7,8 +7,12 @@ import com.codename1.ui.layouts.BorderLayout;
 import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.ui.util.SwipeBackSupport;
 import com.codename1.util.LazyValue;
+import jdk.nashorn.internal.parser.JSONParser;
 
 import java.io.*;
+import java.net.URL;
+import java.text.ParseException;
+import java.util.ArrayList;
 
 import static com.codename1.ui.CN.getCurrentForm;
 import static com.codename1.ui.layouts.BorderLayout.CENTER;
@@ -65,4 +69,10 @@ public class LunchMenu extends Page {
 
     }
 
+
+    public void testing() {
+
+        InputStream in = this.getClass().getResourceAsStream("LunchMenuText.txt");
     }
+
+}
